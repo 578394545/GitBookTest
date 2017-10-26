@@ -2,7 +2,7 @@
     "root": "./",
     "title": "C-Life开放平台文档中心",
     "logo": "./images/logo.png",
-	"structure": {"readme": "index.md"},
+    "structure": {"readme": "index.md"},
 
     "gitbook": ">= 3.0.0",
 
