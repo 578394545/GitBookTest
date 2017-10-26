@@ -1,9 +1,9 @@
-´ËÎÄ¼ş¼Ğ±£´æ¡°Æ½Ì¨¸ÅÊö¡±Ïà¹ØÎÄµµ
+æ­¤æ–‡ä»¶å¤¹ä¿å­˜â€œå¹³å°æ¦‚è¿°â€ç›¸å…³æ–‡æ¡£
 
-index.md--Ä¿Â¼ÎÄ¼ş
+index.md--ç›®å½•æ–‡ä»¶
 
-platform_introduction.md--Æ½Ì¨½éÉÜ
+platform_introduction.md--å¹³å°ä»‹ç»
 
-access_flow_introduction.md--½ÓÈëÁ÷³Ì½éÉÜ
+access_flow_introduction.md--æ¥å…¥æµç¨‹ä»‹ç»
 
-contact_us.md--ÁªÏµÎÒÃÇ
+contact_us.md--è”ç³»æˆ‘ä»¬
