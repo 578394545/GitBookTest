@@ -1,13 +1,13 @@
-´ËÎÄ¼ş¼Ğ±£´æ¡°²úÆ·¿ª·¢¡±Ïà¹ØÎÄµµ
+æ­¤æ–‡ä»¶å¤¹ä¿å­˜â€œäº§å“å¼€å‘â€ç›¸å…³æ–‡æ¡£
 
-index.md--Ä¿Â¼ÎÄ¼ş
-product.md--´´½¨²úÆ·
-protocol_config.md--Ğ­ÒéÅäÖÃ
-page_config.md--Ò³ÃæÅäÖÃ
-debugging.md--Éè±¸µ÷ÊÔ
-access_scheme.md--½ÓÈë·½°¸
-network_config.md--ÁªÍøÅäÖÃ
-upgrade.md--¹Ì¼şÉı¼¶
-mac.md--MAC¹ÜÀí
-publish_product.md--·¢²¼²úÆ·
-brand.md--Æ·ÅÆ¹ÜÀí
+index.md--ç›®å½•æ–‡ä»¶
+product.md--åˆ›å»ºäº§å“
+protocol_config.md--åè®®é…ç½®
+page_config.md--é¡µé¢é…ç½®
+debugging.md--è®¾å¤‡è°ƒè¯•
+access_scheme.md--æ¥å…¥æ–¹æ¡ˆ
+network_config.md--è”ç½‘é…ç½®
+upgrade.md--å›ºä»¶å‡çº§
+mac.md--MACç®¡ç†
+publish_product.md--å‘å¸ƒäº§å“
+brand.md--å“ç‰Œç®¡ç†
