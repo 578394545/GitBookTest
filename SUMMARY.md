@@ -15,7 +15,7 @@
 	* [2.8 MAC管理](./source/zh-cn/product/mac.md)
 	* [2.9 发布产品](./source/zh-cn/product/publish_product.md)
 	* [2.10 品牌管理](./source/zh-cn/product/brand.md)
-* [3. APP开发](./source/zh-cn/App/app.md)
+* [3. APP开发](./source/zh-cn/app/index.md)
 	* [3.1 应用管理](./source/zh-cn/App/app.md)
 		* [3.1.1 新建应用](./source/zh-cn/App/app.md)
 			* [3.1.1.1 普通应用]()
