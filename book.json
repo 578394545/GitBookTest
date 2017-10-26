@@ -1,0 +1,23 @@
+{
+	"root": "./",
+    "title": "C-Life开放平台文档中心",
+    "head_title": "C-Life开放平台文档中心Head_title",
+    "head_description": "C-Life开放平台文档中心head_description",
+    "head_keywords": "wiki,文档中心",
+    "logo": "./images/logo.png",
+	"structure": {"readme": "index.md"},
+
+    "gitbook": ">= 3.0.0",
+
+    "language": "zh-hans",
+
+    "plugins": [
+        "-sharing",
+        "-fontsettings",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "theme-official",
+		"toggle-chapters"
+    ]
+}
