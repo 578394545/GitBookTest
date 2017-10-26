@@ -29,7 +29,7 @@
 		* [3.2.2 ios SDK](./source/zh-cn/app/SDK/ios.md)
 		* [3.2.3 H5 SDK](./source/zh-cn/app/SDK/H5.md)
 	* [3.3 APP 开源框架](./source/zh-cn/App/app.md)
-* [4. 硬件开发](https://open.clife.cn/)
+* [4. 硬件开发](./source/zh-cn/device/index.md)
 	* [4.1 硬件接入准备工作]()
 	* [4.2 硬件MCU及源代码]()
 		* [4.2.1 开发板原理图]()
