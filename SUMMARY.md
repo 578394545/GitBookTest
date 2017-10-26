@@ -1,6 +1,6 @@
 # summary
 
-*[前言](README.md)
+\*[前言](README.md)
 
-	*第一章内容
+--第一章
 
