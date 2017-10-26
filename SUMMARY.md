@@ -38,7 +38,7 @@
 * [5. 云API](./source/zh-cn/cloudAPI/index.md)
 	* [5.1 云对接概述]()
 	* [5.2 企业应用开发]()
-* [6. 数据服务]()
+* [6. 数据服务](./source/zh-cn/dataservice/index.md)
 	* [6.1 概况]()
 	* [6.2 数据统计]()
 	* [6.3 数据分析]()
