@@ -46,8 +46,7 @@ inhibit_all_warnings!
 
 ### 二、导入硬件模组对应的SDK
 1、根据产品类型找到对应的芯片模组名称，如下：
-![](../../../../../images/iOS/查看芯片模组类型.png)
-
+![](/assets/查看芯片模组类型.png)
 2、在podfile中导入对应的sdk，并且安装，对应类表如下：
 
 ```
@@ -88,8 +87,8 @@ pod 'HETPublicSDK_WiFiModule_Marvell_MW300_V2', '1.0.0'
 ```
 
 yourAPPId、yourAPPSecret的值是在“应用创建”时生成的AppID、AppSecret。 在如下图查看: 
-![](../../../../../images/iOS/获取appkeyandappsecrect.jpg)
 
+![](/assets/获取appkeyandappsecrect.jpg)
 注意:如果网络请求出现AppID不合法，请检查Xcode工程里面的BundleId和appId，必须跟在开放平台创建应用时填的BundleId和AppID保持一致。
 
 
